@@ -1,0 +1,44 @@
+ArrayList Operations:
+Perform basic ArrayList operations like adding, removing, and updating elements.
+
+ArrayList Sorting:
+Write a program to sort an ArrayList of integers or strings using different sorting algorithms.
+
+ArrayList Searching:(Done)
+Implement a search functionality to find an element in an ArrayList and return its index.
+
+ArrayList Intersection and Union:
+Write a program to find the intersection and union of two ArrayLists.
+
+ArrayList Serialization:(Done)
+Serialize an ArrayList to a file and then deserialize it back to recreate the original ArrayList.
+
+ArrayList to Array Conversion: (Done)
+Convert an ArrayList to an array and vice versa. Ensure handling of data type conversions.
+
+ArrayList with Custom Objects:
+Create an ArrayList of custom objects and perform various operations on them, like sorting based on specific attributes.
+
+ArrayList Iterator:
+Use an Iterator to traverse an ArrayList and perform different operations during traversal.
+
+ArrayList Copy:
+Write a program to copy all elements from one ArrayList to another.
+
+ArrayList Sublist:
+Implement a program to create a sublist from an existing ArrayList.
+
+ArrayList Frequency:
+Calculate the frequency of each element in an ArrayList and display the result.
+
+ArrayList Shuffle:
+Shuffle the elements of an ArrayList to randomize their order.
+
+ArrayList Conversion:
+Convert an ArrayList of integers to an ArrayList of strings or vice versa.
+
+ArrayList Remove Duplicates:
+Write a program to remove duplicate elements from an ArrayList.
+
+ArrayList Performance Test:
+Compare the performance of ArrayList with LinkedList for various operations like add, remove, and access.

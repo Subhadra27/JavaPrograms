@@ -1,0 +1,24 @@
+Hello World with String: Write a program that simply prints "Hello, World!" using a string variable.
+
+String Concatenation: Create a program that takes two strings as input and concatenates them together,
+ displaying the result.
+
+String Length: Write a program that calculates and prints the length (number of characters) of a given string.
+
+WAP to remove spaces in a sentence
+
+Reverse a String: Create a program that reverses a string. For example, "hello" should become "olleh."
+
+Count Vowels and Consonants: Write a program that counts the number of vowels and consonants in a given string.
+
+Palindrome Checker: Create a program that checks if a given string is a palindrome (reads the same forwards and backwards).
+
+String Replace: Write a program that replaces all occurrences of a specified substring in a given string 
+with another string.
+
+Word Count: Create a program that counts the number of words in a sentence. Words are separated by spaces.
+
+String Encryption: Implement a basic encryption algorithm that shifts the characters of a string by a fixed number of positions.
+
+Anagram Checker: Write a program that checks if two strings are anagrams of each other
+ (they use the same characters but may be rearranged).

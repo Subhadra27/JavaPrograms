@@ -1,0 +1,19 @@
+Array Initialization: Create an array and print its elements.
+
+Array Sum: Write a program to calculate the sum of all elements in an array.
+
+Array Average: Calculate the average of elements in an array.
+
+Array Max and Min: Find the maximum and minimum values in an array.
+
+Array Search: Implement a program to search for a specific element in an array and return its index.
+
+Array Sorting: Sort an array in ascending or descending order using a sorting algorithm like bubble sort or insertion sort.
+
+Array Reverse: Write a program to reverse the elements of an array.
+
+Array Unique Values: Remove duplicate values from an array and print the resulting unique elements.
+
+Array Rotation: Rotate the elements of an array to the right by a given number of positions.
+
+Array Intersection: Given two arrays, find and print the intersection (common elements) between them.
